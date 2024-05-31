@@ -19,6 +19,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Projects
 
-- [Project 1](https://github.com/gustavogorges/evolve)
-- [Project 2](https://github.com/gustavogorges/evolve-api)
+- [Evolve](https://github.com/gustavogorges/evolve)
+- [Evolve-API](https://github.com/gustavogorges/evolve-api)
 
