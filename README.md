@@ -6,7 +6,7 @@
 
 I'm a passionate software developer with a keen interest in open-source projects and innovative technologies.
 
-- 🔭 I’m currently working with Angular and Spring Boot
+- 🔭 I’m currently working with C# .NET
 - 🌱 I’m currently learning NextJS and NodeJS.
 
 ## Languages and Tools
